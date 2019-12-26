@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="paramter">
+    <test name="paramters">
+        <classes>
+            <parameter name="name" value="随便取的"/>
+            <parameter name="age" value="12"/>
+            <class name="com.course.testng.parametric.paramterClass"/>
+        </classes>
+    </test>
+</suite>
